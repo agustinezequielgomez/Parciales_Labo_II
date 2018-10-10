@@ -1,0 +1,10 @@
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Test.exe.config
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Test.exe
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Test.pdb
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Entidades.dll
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Entidades.pdb
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.exe
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.pdb
