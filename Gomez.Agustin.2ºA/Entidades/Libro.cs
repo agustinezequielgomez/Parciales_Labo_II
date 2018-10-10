@@ -34,7 +34,6 @@ namespace Entidades
         static Libro()
         {
             Libro._generadorDePaginas = new Random();
-            Libro._generadorDePaginas.Next(10, 580);
         }
 
         public Libro(float precio, string titulo, string nombre, string apellido) : this(titulo,new Autor(nombre,apellido),precio)

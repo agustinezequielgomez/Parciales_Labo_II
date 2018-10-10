@@ -33,7 +33,7 @@ namespace Entidades
         #region Operadores
         public static bool operator ==(Manual a, Manual b)
         {
-            return (a == b && a.tipo == b.tipo);
+            return (((Libro)a) == ((Libro)b) && a.tipo == b.tipo);
         }
 
         public static bool operator !=(Manual a, Manual b)

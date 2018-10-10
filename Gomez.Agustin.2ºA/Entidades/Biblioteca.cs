@@ -123,9 +123,19 @@ namespace Entidades
             bool retorno = false;
             foreach (Libro item in e._libros)
             {
-                if(item == l)
+                if(item is Novela && l is Novela)
                 {
-                    retorno = true;
+                    if(((Novela)item) == ((Novela)l))
+                    {
+                        retorno = true;
+                    }
+                }
+                else if(item is Manual && l is Manual)
+                {
+                    if (((Manual)item) == ((Manual)l))
+                    {
+                        retorno = true;
+                    }
                 }
             }
             return retorno;

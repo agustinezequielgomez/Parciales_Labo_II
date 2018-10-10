@@ -8,3 +8,13 @@ D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csproj.CoreCompileIn
 D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csproj.CopyComplete
 D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.exe
 D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.pdb
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Test.exe.config
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Test.exe
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Test.pdb
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Entidades.dll
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\bin\Debug\Entidades.pdb
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.exe
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Test\obj\Debug\Test.pdb
