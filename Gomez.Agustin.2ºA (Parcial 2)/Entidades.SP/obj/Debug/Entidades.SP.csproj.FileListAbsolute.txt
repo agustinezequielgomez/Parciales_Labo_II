@@ -1,0 +1,12 @@
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\bin\Debug\Entidades.SP.dll
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\bin\Debug\Entidades.SP.pdb
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.dll
+D:\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.pdb
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\bin\Debug\Entidades.SP.dll
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\bin\Debug\Entidades.SP.pdb
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.dll
+E:\Facu\Parciales_Labo_II\Gomez.Agustin.2ºA\Entidades.SP\obj\Debug\Entidades.SP.pdb
